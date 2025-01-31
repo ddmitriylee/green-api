@@ -9,7 +9,7 @@ git clone https://github.com/ddmitriylee/green-api.git
 
 - Скачать все зависимости
 ```cmd
-cd green-api-app
+cd green-api
 npm install
 ```
 
